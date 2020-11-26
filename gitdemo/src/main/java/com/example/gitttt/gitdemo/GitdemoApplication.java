@@ -12,7 +12,7 @@ public class GitdemoApplication {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		//呀吼呀吼giao
+		//呀吼呀吼giao--怎么硕呢  giao
 		SpringApplication.run(GitdemoApplication.class, args);
 	}
 
