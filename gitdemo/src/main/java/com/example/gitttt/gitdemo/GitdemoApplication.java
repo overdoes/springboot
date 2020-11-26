@@ -9,7 +9,7 @@ public class GitdemoApplication {
 
 	/**
 	 * 111wewew
-	 * @param args
+	 * @param
 	 */
 	public static void main(String[] args) {
 		//呀吼呀吼giao--怎么硕呢  giao
