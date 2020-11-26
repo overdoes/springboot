@@ -15,9 +15,5 @@ public class GitdemoApplication {
 		SpringApplication.run(GitdemoApplication.class, args);
 	}
 
-	/**
-	 *
-	 * 22222
-	 */
 
 }
