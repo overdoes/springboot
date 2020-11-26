@@ -17,4 +17,8 @@ public class GitdemoApplication {
 	}
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 76815866e76ce9c4a83668ca8d591d8671eba50f
 }
