@@ -12,7 +12,7 @@ public class GitdemoApplication {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		//哈哈哈哈哈哈哈哈哈哈
+		//呀吼呀吼giao
 		SpringApplication.run(GitdemoApplication.class, args);
 	}
 
